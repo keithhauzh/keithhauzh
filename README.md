@@ -24,6 +24,7 @@
 ### 📫 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/keith-hau-zhe-hsiang-622906363/)
+- Email: [keithhau.thegreat@gmail.com](mailto:keithhau.thegreat@gmail.com)
 
 ---
 
