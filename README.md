@@ -2,8 +2,6 @@
 
 ## Full Stack Developer | Data Science Enthusiast
 
-### 🌱 Currently focusing on Data Science and exploring machine learning and AI technologies.
-
 ---
 
 ### 💻 Technologies & Tools
@@ -11,7 +9,7 @@
 - **Languages**: JavaScript, Python, PHP
 - **Frontend**: React, Bootstrap, MUI, HTML, CSS
 - **Backend**: Node.js, Express, MongoDB
-- **Other Tools**: Git, Docker, REST APIs
+- **Other Tools**: Git, REST APIs
 
 ---
 
@@ -29,7 +27,6 @@
 ---
 
 ### 🔭 I’m currently working on:
-- **Data Science Projects**: Exploring data sets, building predictive models, and diving into machine learning.
 - **Open Source Contributions**: Always looking for ways to contribute to meaningful projects.
 
 ---
